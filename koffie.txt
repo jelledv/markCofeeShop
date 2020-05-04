@@ -1,3 +1,4 @@
 melk; suiker; honing; kristal
 2DL melk; geen suiker; dubbele portie honing
 0,5DL melk; veel suiker; geen honing
+1DL melk; geen suiker; kaneel
